@@ -6,7 +6,7 @@ DAY_1
 3-Write a query  to update  the  'quantity" column  of the  "products" table  to  10  where  the  "product_id" is  5.                  
 4-Write a  query  to  delete  all records  from  the "orders" table  where  "status" is cancelled".
 
-SELECT * FROM  CUSTOMERS
+SELECT * FROM  CUSTOMERS <br>
 INSERT  INTO EMPLOYEES VALUES(6,"Avinash",900000)
 UPDATE  PRODUCTS SET QUANTITY=10 WHERE  PRODUCT_ID=5
 DELETE FROM ORDERS WHERE  STATUS="CANCELLED"
