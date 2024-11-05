@@ -1,0 +1,9 @@
+Write a query to retrieve all  the columns  from the "employees" table where "salary" >50K.<br>
+Write a query  to  retrieve all the columns  from the "products" table where  the "category" is  "Electronics" and the "price" <1K.<br>
+Write a query to retrieve the names  of all  customers from  the "customers" table  in  alphabetical order.<br>
+Write a  query to  retreive the total  number  of  orders from "orders" table.<br>
+
+Select * from  employees where salary >50000 <br>
+Select * from  products where quantity >20 and  price<10000; <br>
+Select name  from customers order by  name <br>
+select count(*) from orders.<br>
